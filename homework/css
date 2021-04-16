@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Id and Class</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<p class="blue-with-border"> The first paragraph</p>
+<p id="secohd-paragraph"> The second  paragraph</p>
+<p class="blue-with-border"> The third paragraph</p>
+</body>
+</html>
+.blue-with-border {
+	background:blue; 
+	color: white; 
+	border: 3px white dashed;}
+
+
+
+#second-paragraph { background: red;
+	color: yellow;
+margin: 100px;}
+
+.blue-with-border {background:blue; border:2px dotted;}
+#second-paragraph {background:yellow}
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS</title>
+	<style type="text/css">
+		h1 {
+			/*background: red;*/
+
+		}
+		h2{/*background:blue;*/ }
+		p{background:yellow;
+		  /*border-color: green;
+		  border-width: 3px;
+		  border-style: dashed;*/
+		  border: 1px dashed green  }
+		div
+		{background: pink;}
+		body
+		{background:url(https://thumbs.dreamstime.com/b/new-future-technology-concept-abstract-background-business-solution-54350985.jpg); }
+
+
+	</style>
+</head>
+<body>
+<div><h1>Big header</h1>
+	<h2>Middle header</h2></div>
+<div><h3>small header</h3>
+	<p>some paragraph</p>
+	<p>some paragraph</p>
+	<p>some paragraph</p></div>
+					
+					
+</div>
+
+	
+	
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Id and Class</title>
+	<link rel="stylesheet" type="text/css" 
+	href="style.css">
+	
+
+</head>
+<body>
+<p class="blue-with-border"> The first paragraph</p>
+<p id ="second-paragraph"> The second  paragraph</p>
+<p id ="second-paragraph"> The second  paragraph</p>
+<p id ="second-paragraph"> The second  paragraph</p>
+
+
+
+<p class="blue-with-border"> The third paragraph</p>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS</title>
+	<style type="text/css">
+		h1 {
+			/*background: red;*/
+
+		}
+		h2{/*background:blue;*/ }
+		p{background:yellow;
+		  /*border-color: green;
+		  border-width: 3px;
+		  border-style: dashed;*/
+		  border: 1px dashed green  }
+		div
+		{background: pink;}
+		body
+		{background:url(https://thumbs.dreamstime.com/b/new-future-technology-concept-abstract-background-business-solution-54350985.jpg); }
+
+
+	</style>
+</head>
+<body>
+<div><h1>Big header</h1>
+	<h2>Middle header</h2></div>
+<div><h3>small header</h3>
+	<p>some paragraph</p>
+	<p>some paragraph</p>
+	<p>some paragraph</p></div>
+					
+					
+</div>
+
+	
+	
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS2</title>
+	<style type="text/css">
+		li{ background:yellow; 
+			border:1px solid #72310A }
+		ul{background: red;}
+		h2{background: #1FE21D;}
+		
+		
+			body{background: #72310A}
+
+			
+		</style>
+		
+</head>
+<body>
+	<h2>Some header</h2>
+	<ul>
+	
+	<li>some option</li>
+	<li> some option </li>
+	<li> some option </li>
+</ul>
+
+</body>
+</html>
